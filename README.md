@@ -55,19 +55,22 @@ Os links foram configurados para abrir os sites em uma nova aba do navegador.
 - Estilização com CSS;
 - Organização de elementos utilizando classes.
 
-## 🌎 Acesse o projeto
-
-file:///C:/Users/saman/OneDrive/%C3%81rea%20de%20Trabalho/(3)%20WhatsApp_files/Curso%20EaDTEC%20-%20DS/EmanuellyNicolly_Ag12_DS_I/index.html
-
 ## 🖼️ Imagens do projeto
 
 ### Código desenvolvido no VS Code
-
-
+<img width="550" height="200" alt="image" src="https://github.com/user-attachments/assets/84617a18-b2d3-48f5-b435-eeddeb677920" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/1a7b9d6c-0b80-42d9-98f3-3dfa01fe43d6" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/5c25d954-60fd-4037-8946-eef015c89410" />
+<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/5c966025-1b9b-4402-be52-f49e8077ca1b" />
+<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/d7a74b1e-4cca-411c-b621-8548d0d2f8cd" />
+<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/ffad4adf-b77e-4c8a-b13b-52589231a245" />
 
 ### Resultado final no navegador
-
-
+<img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/1c2f7523-9b79-4b2c-ae86-f0ca5a607b91" />
+<img width="650" height="350" alt="image" src="https://github.com/user-attachments/assets/f1f83e7d-e1d4-4818-a623-197494d048fe" />
+<img width="650" height="350" alt="image" src="https://github.com/user-attachments/assets/dfa1421a-05b0-4b5a-b743-4de8c3ac771a" />
+<img width="650" height="350" alt="image" src="https://github.com/user-attachments/assets/a545913a-49ae-4842-b454-b8c4f4232091" />
+<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/5e807706-3645-4b74-ac4c-2508040e68e6" />
 
 ## ✅ Conclusão
 
